@@ -1,0 +1,3 @@
+Envolve uma unica classe, com responsabilidade de criar seu objeto
+tendo certeza que o  criará uma única vez, deve ser acessado sem nescessitar de uma instancia
+construtor privado,

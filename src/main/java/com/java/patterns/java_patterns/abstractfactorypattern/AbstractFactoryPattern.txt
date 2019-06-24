@@ -1,0 +1,2 @@
+trabalha como uma super fabrica, generica para criação de objetos
+Fabrica de fabricas,

@@ -1,0 +1,4 @@
+
+Padrao que esconde a lógica de criação de objetos complexos
+prove a melhor maneira de criar objetos, como uma fabrica
+especializada nisso

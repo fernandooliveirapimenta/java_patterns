@@ -1,0 +1,12 @@
+
+é usado quando precisamos desacoplar uma abstração de uma implementação e as duas serem independentes
+é um pattern estrutural, desacopla um classe de implementação e abastrata provendo uma ponte entre as duas
+
+esse pattern envolve uma interface que atua como ponte que faz a funcionalidade da classe concreta independente da interface
+da classe impl as duas classes podem ser alteradas sem sofrerem alterações
+
+EX: um circulo pode ser desenhado em diferentes cores usando a mesma classe abstrata, mas diferentes pontes de implementações.
+
+
+temos a interface DrawAPI que atua como ponte de implementação, a classe concreta RedCircle, GreenCircle, implementando DrawAPI
+Shape classe abstrata que usa DrawAPI para desenhar.

@@ -22,7 +22,7 @@ git flow feature start <name> [<base>]
 git flow feature finish feature1
  flow feature start
  flow feature finish
- flow feature publish
+ flow feature publish <featureName> -> push pro servidor de codigo remoto
  flow feature track
  flow feature diff
  flow feature rebase

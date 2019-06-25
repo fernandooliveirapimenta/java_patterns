@@ -1,0 +1,24 @@
+è uma extensão do GIT
+instalação a parte
+abstração para organização de repositórios
+sematica aos branches master e develop
+
+features
+releases
+hotfixes
+supports
+
+master e dev vida infinita
+
+MASTER -> codigo rodando em produção
+DEV -> branch preparatória para produção
+FEATURE -> novas funcionalidades, multiplas features ao mesmo tempo, toda feature inicia da DEV e termina na DEV
+RELEASE -> nova versão de produção, inicia em DEV, sera mesclado em MASTER e DEV erros são corrigidos por hotfix, uso de semantic version
+HOTFIXE -> branch para correção de erros, ligada a uma RELEASE, criado a partir do MASTER, se mescla com MASTER e DEV, gerará uma nova versão de software
+BUGFIX -> correção de bugs, inicia DEV mesclado com DEV
+
+//
+git flow feature start <name> [<base>]
+
+
+

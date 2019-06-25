@@ -33,6 +33,11 @@ git flow feature finish feature1
  flow feature pull
  flow feature delete
 
+ //
+ git flow release start 0.0.1
+ git flow release finish '0.0.1'
+
+
 
 
 

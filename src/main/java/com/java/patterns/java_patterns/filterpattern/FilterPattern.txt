@@ -1,0 +1,4 @@
+Filter Pattern ou Criteria Pattern, habilita o dev a filtrar um SET de objetos, usando diferentes criterios.
+é um pattern estrutural combinando multiplos criterios ate obter um unico criterio.
+
+EX: Person object, Criteria interface e classe concreta implementando essa interface para filtrar a lista de Person.

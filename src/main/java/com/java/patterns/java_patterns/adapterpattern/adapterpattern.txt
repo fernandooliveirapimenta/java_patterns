@@ -1,0 +1,5 @@
+funciona como uma ponte entre duas interfaces incompativeis.
+é um pattern estrutural combina a capacidade de 2 interfaces
+
+envolve uma unica classe responsavel para juntar funcinalidades de interfaces incompativeis
+ex real: pode ser um leitor de cartao que atua como um adaptador entre a memoria do cartao e o labtop,

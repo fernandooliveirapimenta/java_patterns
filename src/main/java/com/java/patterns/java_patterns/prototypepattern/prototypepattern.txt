@@ -1,0 +1,1 @@
+forma de duplicar um objeto apartir de um protótipo, mantendo a performance em mente

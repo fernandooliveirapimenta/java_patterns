@@ -19,6 +19,8 @@ BUGFIX -> correção de bugs, inicia DEV mesclado com DEV
 
 //
 git flow feature start <name> [<base>]
+git flow feature finish feature1
+
 
 
 

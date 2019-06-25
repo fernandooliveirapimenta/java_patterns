@@ -20,6 +20,16 @@ BUGFIX -> correção de bugs, inicia DEV mesclado com DEV
 //
 git flow feature start <name> [<base>]
 git flow feature finish feature1
+ flow feature start
+ flow feature finish
+ flow feature publish
+ flow feature track
+ flow feature diff
+ flow feature rebase
+ flow feature checkout
+ flow feature pull
+ flow feature delete
+
 
 
 

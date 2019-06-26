@@ -1,0 +1,5 @@
+Esconde a complexidade do sistema e prove uma interface para o cliente, fazendo o cliente acessar o sistema,
+é um pattern estrutural, adiciona uma interface a um sistema existente para esconder a complexidade,
+
+Envolve uma unica classe provendo metodos simples requeridos pela imp delegando ao metodo existente
+

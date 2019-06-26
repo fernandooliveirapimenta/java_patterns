@@ -1,0 +1,2 @@
+alem de log, telemetria,
+devemos saber contar a historia de um request

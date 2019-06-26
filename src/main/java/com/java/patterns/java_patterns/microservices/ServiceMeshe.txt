@@ -1,0 +1,8 @@
+Linkerd
+conduit
+istio
+envoy
+
+Pilot, mixer, auth
+
+Separação mais forte entre quetoes de aplicação e infra

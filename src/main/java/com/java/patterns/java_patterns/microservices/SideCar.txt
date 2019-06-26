@@ -1,0 +1,3 @@
+EX: tenho um serviço CRM que precisa de : [Transporte, tolerancia a falhas, rastreamento dist., telemetria, logging], mas
+para ficar mais facil o deploy utilizo um container sidecar que sera um outro deploy que olhara para meu serviço CRM e provera tudo
+isso.

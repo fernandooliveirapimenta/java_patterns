@@ -1,0 +1,2 @@
+Ex: Kibana
+tenho 100 serviços cada um com uma camada de log, apontando para o kibana que ira afunilar o log de todos os outros e poderemos fazer query

@@ -1,0 +1,5 @@
+é usado quando precisamos tratar um grupo de objetos de uma forma similar
+como um unico objeto, compoe obj como uma arvore,
+é um pattern estrutural,
+cria uma classe com grupo de msm objeto, prove uma forma para modificar o grupo de msm objetos
+ex: empregados de uma empresa hierarquica

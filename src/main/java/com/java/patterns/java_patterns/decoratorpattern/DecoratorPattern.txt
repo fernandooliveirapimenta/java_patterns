@@ -1,0 +1,3 @@
+permite add nova funcionalidade a um determinado obj sem alterar a sua estrutura,
+é um pattern estrutural, atua como wrapper e prove uma adicional funcionalidade mantendo a classe e assinaturas de metodos intactos.
+

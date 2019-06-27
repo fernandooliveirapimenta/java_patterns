@@ -1,0 +1,6 @@
+é um data driven design pattern
+é um pattern comportamental
+a requisicao é envolvida por um obj comando,
+
+encapsula uma solicitação como um obj, que permiter parametrizar outros obj com diferentes solicitações, enfileirar ou registrar solicitações, e impl recursos de canc
+elamento de operações,

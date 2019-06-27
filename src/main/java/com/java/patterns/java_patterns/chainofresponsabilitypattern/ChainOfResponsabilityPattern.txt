@@ -1,0 +1,4 @@
+criat uma mudança do obj que recebe, desabopla o emissor e recebidor baseado em uma request
+é um pattern comportamental
+
+um recebido contem referencia a outo recebidor

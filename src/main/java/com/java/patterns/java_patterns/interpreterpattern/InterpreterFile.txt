@@ -1,0 +1,5 @@
+prove maneira para avaliar a linguagem gramatica da expressão.
+é um pattern comportamental
+se o problema ocorre repetidamente em um dominio bem defenido e bem compreendido se o dominio for caracterizado como uma linguagem
+entao o problema pode ser resolvido com interpretacao da engine
+o SQL utiliza esse padrão para resolver seu problema.

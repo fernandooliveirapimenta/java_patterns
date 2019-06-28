@@ -1,0 +1,2 @@
+é usado quando temos muito relacionamento entre os objetos, se um obj é modificado temos que notificar automaticamente
+é um pattern comportamental

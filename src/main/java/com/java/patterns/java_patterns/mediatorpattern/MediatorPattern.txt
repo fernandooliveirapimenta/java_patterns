@@ -1,0 +1,5 @@
+
+é usado para reduzir a communicacao complexidade entre multiplos objects
+prove uma classe mediadora que habilita comunicacao entre entre as diferentes classes e facil manutencao
+desacoplando
+é um pattern comportamental

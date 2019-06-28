@@ -1,0 +1,3 @@
+é usado quando precisamos reduzir onde nós queremos restaurar o stado de um objeto
+para um stado anterior,
+é um pattern comportamental

@@ -1,0 +1,3 @@
+Iterator pattern, fornece uma maneira para acessar elementos de uma collection obj de
+uma maneira sequencial,
+é uma pattern comportamental,

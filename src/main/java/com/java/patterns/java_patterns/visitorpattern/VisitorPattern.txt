@@ -1,0 +1,2 @@
+usamos uma classe visitante para mudar a execução de algoritimos,
+é um pattern comportamental

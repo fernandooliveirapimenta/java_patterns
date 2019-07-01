@@ -1,0 +1,3 @@
+com esse pattern remove a nescessidade de checar null object
+reflete uma não faça nada relação,
+é um pattern comportamental

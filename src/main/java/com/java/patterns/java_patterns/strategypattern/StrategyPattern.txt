@@ -1,0 +1,4 @@
+pode ser alterado em runtime,
+é um pattern comportamental
+criamos objetos que representa varias estrategias,
+e um objeto de contexto

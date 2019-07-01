@@ -1,0 +1,4 @@
+no template pattern, uma classe abstrata expõe definições templates para executar esses métodos.
+as subclasses podem override esses metodos mas o template de execução não muda.
+é a invocação continuara a mesma.
+é um pattern comportamental.

@@ -1,0 +1,4 @@
+é usado para separar um software e seus conceitos,
+Model - objetos pojo carregando os dados
+View - representa a visualizacao que o model contem
+Controller - atua com model e controller atualiza a view com os dados do model sempre que o dado muda

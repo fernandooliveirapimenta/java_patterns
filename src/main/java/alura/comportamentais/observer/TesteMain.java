@@ -1,4 +1,4 @@
-package alura.templatemethod;
+package alura.comportamentais.observer;
 
 public class TesteMain {
 

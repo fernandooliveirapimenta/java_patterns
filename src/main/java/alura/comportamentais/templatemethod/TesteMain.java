@@ -1,4 +1,4 @@
-package alura.command;
+package alura.comportamentais.templatemethod;
 
 public class TesteMain {
 

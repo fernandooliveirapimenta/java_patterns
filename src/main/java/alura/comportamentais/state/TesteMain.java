@@ -1,4 +1,4 @@
-package alura.observer;
+package alura.comportamentais.state;
 
 public class TesteMain {
 

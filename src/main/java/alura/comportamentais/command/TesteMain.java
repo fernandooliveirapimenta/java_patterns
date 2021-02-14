@@ -1,4 +1,4 @@
-package alura.strategy;
+package alura.comportamentais.command;
 
 public class TesteMain {
 
